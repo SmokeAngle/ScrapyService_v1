@@ -1,0 +1,12 @@
+#!wing
+#!version=5.0
+##################################################################
+# Wing IDE project file                                          #
+##################################################################
+[project attributes]
+proj.file-list = [loc('app.py'),
+                  loc('config.py'),
+                  loc('services.py'),
+                  loc('startApp.py'),
+                  loc('utils.py')]
+proj.file-type = 'shared'
